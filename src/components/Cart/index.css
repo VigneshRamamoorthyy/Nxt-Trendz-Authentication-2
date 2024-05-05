@@ -1,0 +1,17 @@
+.cart-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 70vh;
+}
+
+.cart-img {
+  width: 120px;
+}
+
+.cart-text {
+  color: #1e293b;
+  font-family: Roboto;
+  font-size: 28px;
+}
